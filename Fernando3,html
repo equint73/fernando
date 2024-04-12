@@ -26,9 +26,28 @@
                     <h2>Complementos</h2>
                     <p> Amplie la funcionalidad de su sitio web con
                         potentes complementos.
-                        
+
                     </p>
                 </div>
             </div>
         </div>
     
+
+        <title>Centrado de texto en footer</title>
+        <style>
+            footer {
+                text-align: center;
+            }
+        </style>
+        </head>
+        <body>
+        
+        <footer>
+            Fernando Emilio Quintero Medina 20241001521
+        </footer>
+        
+
+
+
+</body>
+</html>
